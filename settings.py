@@ -15,7 +15,7 @@ PLAYER_COLOR = (190, 194, 15)
 #font settings
 START_TEXT_SIZE = 19
 
-START_FONT = 'arial black'
+START_FONT = 'Avenir.ttf'
 START_TEXT_STRING = 'PUSH SPACE BAR TO START'
 #player settings
 
